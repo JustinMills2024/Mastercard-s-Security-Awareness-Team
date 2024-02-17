@@ -15,7 +15,7 @@ In the second phase of the project, I created a comprehensive slide show trainin
 
 
 
-<H2>Refined the phishing email to increase believability</H2>
+<H2>Refined phishing email to increase believability</H2>
 
 <br>From: mastercardsIT@gmail.com 
 
