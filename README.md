@@ -42,7 +42,8 @@ In Task 2, I developed an engaging slideshow training presentation focused on en
 <img src="https://github.com/JustinMills2024/Mastercard-s-Security-Awareness-Team/assets/159082478/0496ff22-1625-47da-b79e-c2b36290243b" alt="1708175188388">
 <img src="https://github.com/JustinMills2024/Mastercard-s-Security-Awareness-Team/assets/159082478/b0e30d95-982d-49ce-b81f-1e21d9e33188" alt="1708175216255">
 <img src="https://github.com/JustinMills2024/Mastercard-s-Security-Awareness-Team/assets/159082478/58b0a2c1-a012-4459-93b4-4e16bfa25c7a" alt="1708175356189">
-<img src="https://github.com/JustinMills2024/Mastercard-s-Security-Awareness-Team/assets/159082478/de1b1c50-a818-45bc-b451-bbbcd3bc9170" alt="1708175267456">
+<img src="https://github.com/JustinMills2024/Mastercard-s-Security-Awareness-Team/assets/159082478/0398ed33-9605-4150-be04-98dc4d116592" alt="1708183393500">
+
 <img src="https://github.com/JustinMills2024/Mastercard-s-Security-Awareness-Team/assets/159082478/87e15fbd-b574-4af7-8226-f1b3e77bcab4" alt="1708175295110">
 <img src="https://github.com/JustinMills2024/Mastercard-s-Security-Awareness-Team/assets/159082478/104cf309-d799-4bec-8989-995280ccda71" alt="1708175320319">
 
