@@ -1,4 +1,4 @@
-<H1>Job simulation with Mastercard Cybersecurity. Identified and reported security threats, including sophisticated phishing attempts.</H1>
+<H1>Job simulation with Mastercard's Security Awareness Team. Identified and reported security threats, including sophisticated phishing attempts.</H1>
 <H2>Objective: </H2>
 <Br> In this project, I participated in a job simulation as an analyst within Mastercard's Security Awareness Team. My role involved effectively identifying and reporting security threats, including phishing attempts.</br>
 
