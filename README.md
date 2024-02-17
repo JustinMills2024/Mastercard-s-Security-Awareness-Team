@@ -11,7 +11,8 @@ In the second phase of the project, I created a comprehensive slide show trainin
 </h2>
 <h3>Fake phishing email :</h3>
 
-<img src="https://github.com/JustinMills2024/Mastercard-s-Security-Awareness-Team/assets/159082478/4e96bc38-e823-43e1-b5f6-304fce60744c" alt="1708171197619">
+<img src="https://github.com/JustinMills2024/Mastercard-s-Security-Awareness-Team/assets/159082478/3b9be254-329e-4780-b8ee-619174728fc0" alt="1708171197619 (1)">
+
 
 
 <H2>Refined the phishing email to increase believability</H2>
